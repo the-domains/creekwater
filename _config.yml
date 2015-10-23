@@ -1,0 +1,23 @@
+name: Creekwater
+favicon: null
+layout_spectrum: 0.8974759979173541
+typography_spectrum: 0.6391844758763909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6358416122384369
+  lightness: 0.9893208227586001
+  saturation: 0.11119137122295797
+  rhythmicContrast: 0.5076136700809002
+purpose: []
